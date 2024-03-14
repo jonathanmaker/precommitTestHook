@@ -1,0 +1,9 @@
+/*
+*En este archivo se deben referenciar todas las licencias que se agreguen en el proyecto
+*Se debe agregar el nombre de la licencia, la version y el nombre del autor
+*
+*formato sugerido:
+*@license=
+*@version=
+*@author=
+*/
