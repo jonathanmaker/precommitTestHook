@@ -1,4 +1,4 @@
-Copyright (c) [Año] [Nombre de la Empresa]
+Copyright (c) [2024] [Latam Airlines Group S.A.]
 
 Este archivo contiene las referencias y los derechos de autor de las licencias de software utilizadas en este proyecto.
 
